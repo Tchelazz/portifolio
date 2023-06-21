@@ -1,0 +1,12 @@
+a medida REM usada no projeto ela serve para adaptar a medida do texto de acordo com cada navegador e também para
+acompanhar a medida do texto (MEDIA GRANDE MUITO GRANDE).
+REM para você converte de PX"pixel" para REM"medidade adptável" você divide o valor do PX por 16.
+obs: caso de algum valor quebrado como 2.37 vc pode arredondar para tipo 2.35 ou 2.40 para ficar legal. E só
+pode ser alterador em font-size!!!
+
+USAR PORCENTAGEM NA PÁGINA MELHORA A DISPOSIÇÃO DO TEXTO OU MELHOR DIZENDO O CONTEÚDO DA PAGINA SE ADPATA MELHOR 
+EM QUALQUER PLATAFORMA.
+
+media queries é uma media que nós usamos para dizer ao script em que momento ele deve alterar a imagem em sua
+tela ou seja se o max de pixels for 1000 a partir desse momento ele tem que pegar todo aquele texto e adaptar
+de acordo com aquela tela que esta sendo usada, seja notebook, desktop, celular, etc.
